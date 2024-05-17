@@ -1,0 +1,389 @@
+Date: Thu, 17 May 2012 18:00:36 +0900 (KST)
+From: =?UTF-8?B?6rmA6riw7ISt?= <kg12120908@naver.com>
+Reply-To: =?UTF-8?B?6rmA6riw7ISt?= <kg12120908@naver.com>
+To: kg12120908@naver.com
+Message-ID: <4f9c8da7c4903b238bb8b23c283879@tweb108-2.nm.nhnsystem.com>
+Subject: gggggggggg
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_10190_998386235.1337245236602"
+Importance: normal
+X-Priority: 3 (Normal)
+
+------=_Part_10190_998386235.1337245236602
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_10189_380184580.1337245236602"
+
+------=_Part_10189_380184580.1337245236602
+Content-Type: text/plain;
+	charset=UTF-8
+Content-Transfer-Encoding: base64
+
+Z2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2c=
+------=_Part_10189_380184580.1337245236602
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0iZm9udC1zaXplOjEwcHQ7IGZvbnQtZmFtaWx5Okd1bGltOyI+Z2dnZ2dnZ2dn
+Z2dnZ2dnZ2dnZ2dnZ2dnZ2c8L2Rpdj4=
+------=_Part_10189_380184580.1337245236602--
+
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx13.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx13.class
+
+yv66vgAAADMAEAoAAwANBwAOBwAPAQAGPGluaXQ+AQADKClWAQAEQ29kZQEAD0xpbmVOdW1iZXJU
+YWJsZQEABG1haW4BABYoW0xqYXZhL2xhbmcvU3RyaW5nOylWAQANU3RhY2tNYXBUYWJsZQEAClNv
+dXJjZUZpbGUBAA1GbG93RXgxMy5qYXZhDAAEAAUBAAhGbG93RXgxMwEAEGphdmEvbGFuZy9PYmpl
+Y3QAIAACAAMAAAAAAAIAAAAEAAUAAQAGAAAAHQABAAEAAAAFKrcAAbEAAAABAAcAAAAGAAEAAAAB
+AAkACAAJAAEABgAAAE0AAgADAAAAFQM8BD0cEAqjAA0bHGA8hAIBp//zsQAAAAIABwAAABYABQAA
+AAUAAgAGAAoACAAOAAYAFAALAAoAAAAKAAL9AAQBAfoADwABAAsAAAACAAw=
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx13.java"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx13.java
+
+Y2xhc3MgRmxvd0V4MTMNCnsNCiBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz
+KQ0KIHsNCiAgaW50IHN1bT0wOw0KICBmb3IoaW50IGk9MTtpPD0xMDtpKyspDQogIHsNCiAgIHN1
+bSArPWk7DQogIH0NCiAgLy9TeXN0ZW0ub3V0LnByaW50bG4oaS0xICsgIrHuwfYgx9U6IiArIHN1
+bSk7DQogfQ0KfQ==
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx14.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx14.class
+
+yv66vgAAADMALAoACwAVCQAWABcHABgKAAMAFQoAAwAZCAAaCgADABsKAAMAHAoAHQAeBwAfBwAg
+AQAGPGluaXQ+AQADKClWAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEABG1haW4BABYoW0xqYXZh
+L2xhbmcvU3RyaW5nOylWAQANU3RhY2tNYXBUYWJsZQEAClNvdXJjZUZpbGUBAA1GbG93RXgxNC5q
+YXZhDAAMAA0HACEMACIAIwEAF2phdmEvbGFuZy9TdHJpbmdCdWlsZGVyDAAkACUBAAzquYzsp4Ag
+7ZWpOiAMACQAJgwAJwAoBwApDAAqACsBAAhGbG93RXgxNAEAEGphdmEvbGFuZy9PYmplY3QBABBq
+YXZhL2xhbmcvU3lzdGVtAQADb3V0AQAVTGphdmEvaW8vUHJpbnRTdHJlYW07AQAGYXBwZW5kAQAc
+KEkpTGphdmEvbGFuZy9TdHJpbmdCdWlsZGVyOwEALShMamF2YS9sYW5nL1N0cmluZzspTGphdmEv
+bGFuZy9TdHJpbmdCdWlsZGVyOwEACHRvU3RyaW5nAQAUKClMamF2YS9sYW5nL1N0cmluZzsBABNq
+YXZhL2lvL1ByaW50U3RyZWFtAQAHcHJpbnRsbgEAFShMamF2YS9sYW5nL1N0cmluZzspVgAgAAoA
+CwAAAAAAAgAAAAwADQABAA4AAAAdAAEAAQAAAAUqtwABsQAAAAEADwAAAAYAAQAAAAEACQAQABEA
+AQAOAAAAbgAEAAMAAAA0AzwEPRwQCqMADRscYDyEAgGn//OyAAK7AANZtwAEHARktgAFEga2AAcb
+tgAFtgAItgAJsQAAAAIADwAAABoABgAAAAUAAgAHAAoACQAOAAcAFAALADMADAASAAAACAAC/QAE
+AQEPAAEAEwAAAAIAFA==
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx14.java"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx14.java
+
+Y2xhc3MgRmxvd0V4MTQNCnsNCiBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz
+KQ0KIHsNCiAgaW50IHN1bT0wOw0KICBpbnQgaTsNCiAgZm9yKGk9MTtpPD0xMDtpKyspDQogIHsN
+CiAgIHN1bSArPWk7DQogIH0NCiAgU3lzdGVtLm91dC5wcmludGxuKGktMSArIrHuwfYgx9U6ICIr
+IHN1bSk7DQogfQ0KfQ==
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx16.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx16.class
+
+yv66vgAAADMALgoADAAWCQAXABgHABkKAAMAFgoAAwAaCAAbCgADABwIAB0KAAMAHgoAHwAgBwAh
+BwAiAQAGPGluaXQ+AQADKClWAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEABG1haW4BABYoW0xq
+YXZhL2xhbmcvU3RyaW5nOylWAQANU3RhY2tNYXBUYWJsZQEAClNvdXJjZUZpbGUBAA1GbG93RXgx
+Ni5qYXZhDAANAA4HACMMACQAJQEAF2phdmEvbGFuZy9TdHJpbmdCdWlsZGVyDAAmACcBAAMgKiAM
+ACYAKAEAAyA9IAwAKQAqBwArDAAsAC0BAAhGbG93RXgxNgEAEGphdmEvbGFuZy9PYmplY3QBABBq
+YXZhL2xhbmcvU3lzdGVtAQADb3V0AQAVTGphdmEvaW8vUHJpbnRTdHJlYW07AQAGYXBwZW5kAQAc
+KEkpTGphdmEvbGFuZy9TdHJpbmdCdWlsZGVyOwEALShMamF2YS9sYW5nL1N0cmluZzspTGphdmEv
+bGFuZy9TdHJpbmdCdWlsZGVyOwEACHRvU3RyaW5nAQAUKClMamF2YS9sYW5nL1N0cmluZzsBABNq
+YXZhL2lvL1ByaW50U3RyZWFtAQAHcHJpbnRsbgEAFShMamF2YS9sYW5nL1N0cmluZzspVgAgAAsA
+DAAAAAAAAgAAAA0ADgABAA8AAAAdAAEAAQAAAAUqtwABsQAAAAEAEAAAAAYAAQAAAAEACQARABIA
+AQAPAAAAhwAEAAMAAABFBTwbEAmjAD8EPRwQCaMAMbIAArsAA1m3AAQbtgAFEga2AAcctgAFEgi2
+AAcbHGi2AAW2AAm2AAqEAgGn/8+EAQGn/8GxAAAAAgAQAAAAGgAGAAAABQAIAAcAEAAJADgABwA+
+AAUARAAMABMAAAAQAAT8AAIB/AAHAfoAM/oABQABABQAAAACABU=
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx16.java"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=FlowEx16.java
+
+class FlowEx16
+{
+ public static void main(String[] args)
+ {
+  for(int i=2; i<=9;i++)
+  {
+   for(int j=1; j<=9;j++)
+   {
+    System.out.println(i+" * "+j+" = "+i*j);
+   }
+  }
+ }
+}
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx19.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx19.class
+
+yv66vgAAADMANQoADwAZCgAaABsDO5rKAAkAGgAcBwAdCgAFABkIAB4KAAUAHwoABQAgCgAFACEK
+ACIAIwgAJAgAJQcAJgcAJwEABjxpbml0PgEAAygpVgEABENvZGUBAA9MaW5lTnVtYmVyVGFibGUB
+AARtYWluAQAWKFtMamF2YS9sYW5nL1N0cmluZzspVgEADVN0YWNrTWFwVGFibGUBAApTb3VyY2VG
+aWxlAQANRmxvd0V4MTkuamF2YQwAEAARBwAoDAApACoMACsALAEAF2phdmEvbGFuZy9TdHJpbmdC
+dWlsZGVyAQAN7Iuc7J6R7Iuc6rCEPQwALQAuDAAtAC8MADAAMQcAMgwAMwA0AQAN7KKF66OM7Iuc
+6rCEPQEAE+yGjOyalOuQmOuKlOyLnOqwhD0BAAhGbG93RXgxOQEAEGphdmEvbGFuZy9PYmplY3QB
+ABBqYXZhL2xhbmcvU3lzdGVtAQARY3VycmVudFRpbWVNaWxsaXMBAAMoKUoBAANvdXQBABVMamF2
+YS9pby9QcmludFN0cmVhbTsBAAZhcHBlbmQBAC0oTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xh
+bmcvU3RyaW5nQnVpbGRlcjsBABwoSilMamF2YS9sYW5nL1N0cmluZ0J1aWxkZXI7AQAIdG9TdHJp
+bmcBABQoKUxqYXZhL2xhbmcvU3RyaW5nOwEAE2phdmEvaW8vUHJpbnRTdHJlYW0BAAdwcmludGxu
+AQAVKExqYXZhL2xhbmcvU3RyaW5nOylWACAADgAPAAAAAAACAAAAEAARAAEAEgAAAB0AAQABAAAA
+BSq3AAGxAAAAAQATAAAABgABAAAAAQAJABQAFQABABIAAACkAAYABQAAAGS4AAJAAz4dEgOiAAmE
+AwGn//e4AAJCsgAEuwAFWbcABhIHtgAIH7YACbYACrYAC7IABLsABVm3AAYSDLYACCG2AAm2AAq2
+AAuyAAS7AAVZtwAGEg22AAghH2W2AAm2AAq2AAuxAAAAAgATAAAAHgAHAAAABQAEAAYAEgAKABYA
+CwAvAAwASAANAGMADgAWAAAACgAC/QAGBAH6AAsAAQAXAAAAAgAY
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx19.java"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx19.java
+
+Y2xhc3MgRmxvd0V4MTkNCnsNCiBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz
+KQ0KIHsNCiAgbG9uZyBzdGFydFRpbWU9U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7DQogIGZv
+cihpbnQgaT0wOyBpPDEwMDAwMDAwMDA7IGkrKykNCiAgew0KICAgOw0KICB9DQogIGxvbmcgZW5k
+VGltZT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsNCiAgU3lzdGVtLm91dC5wcmludGxuKCK9
+w8DbvcOwoz0iKyBzdGFydFRpbWUpOw0KICBTeXN0ZW0ub3V0LnByaW50bG4oIsG+t+G9w7CjPSIr
+IGVuZFRpbWUpOw0KICBTeXN0ZW0ub3V0LnByaW50bG4oIrzSv+S1x7TCvcOwoz0iKyAoZW5kVGlt
+ZSAtIHN0YXJ0VGltZSkpOw0KICB9DQp9
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx20.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx20.class
+
+yv66vgAAADMAJAoACQATCQAUABUIABYKABcAGAM7msoACgAXABkIABoHABsHABwBAAY8aW5pdD4B
+AAMoKVYBAARDb2RlAQAPTGluZU51bWJlclRhYmxlAQAEbWFpbgEAFihbTGphdmEvbGFuZy9TdHJp
+bmc7KVYBAA1TdGFja01hcFRhYmxlAQAKU291cmNlRmlsZQEADUZsb3dFeDIwLmphdmEMAAoACwcA
+HQwAHgAfAQAm7J6QIOy5tOyatO2KuOuLpOyatOydhOyLpO2Wie2VqeuLiOuLpC4HACAMACEAIgwA
+IQAjAQAJVGltZSBvdmVyAQAIRmxvd0V4MjABABBqYXZhL2xhbmcvT2JqZWN0AQAQamF2YS9sYW5n
+L1N5c3RlbQEAA291dAEAFUxqYXZhL2lvL1ByaW50U3RyZWFtOwEAE2phdmEvaW8vUHJpbnRTdHJl
+YW0BAAdwcmludGxuAQAVKExqYXZhL2xhbmcvU3RyaW5nOylWAQAEKEkpVgAgAAgACQAAAAAAAgAA
+AAoACwABAAwAAAAdAAEAAQAAAAUqtwABsQAAAAEADQAAAAYAAQAAAAEACQAOAA8AAQAMAAAAeQAC
+AAMAAAAzsgACEgO2AAQQCjwbmwAeAz0cEgWiAAmEAgGn//eyAAIbtgAGhAH/p//ksgACEge2AASx
+AAAAAgANAAAAHgAHAAAABQAIAAYADwAIAB0ADAAkAAYAKgAOADIADwAQAAAAEAAE/AALAfwABQH6
+AAv6AAwAAQARAAAAAgAS
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx20.java"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx20.java
+
+Y2xhc3MgRmxvd0V4MjANCnsNCiBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz
+KQ0KIHsNCiAgU3lzdGVtLm91dC5wcmludGxuKCLA2iDEq7/uxq602b/uwLu9x8fgx9W0z7TZLiIp
+Ow0KICBmb3IoaW50IGk9MTA7aT49MDtpLS0pDQogIHsNCiAgIGZvcihpbnQgaj0wO2o8MTAwMDAw
+MDAwMDtqKyspDQogICB7DQogICAgOw0KICAgfQ0KICAgU3lzdGVtLm91dC5wcmludGxuKGkpOw0K
+ICB9DQogIFN5c3RlbS5vdXQucHJpbnRsbigiVGltZSBvdmVyIik7DQogfQ0KfQ0KICA=
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx22.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx22.class
+
+yv66vgAAADMALgoADAAWCQAXABgHABkKAAMAFgoAAwAaCAAbCgADABwIAB0KAAMAHgoAHwAgBwAh
+BwAiAQAGPGluaXQ+AQADKClWAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEABG1haW4BABYoW0xq
+YXZhL2xhbmcvU3RyaW5nOylWAQANU3RhY2tNYXBUYWJsZQEAClNvdXJjZUZpbGUBAA1GbG93RXgy
+Mi5qYXZhDAANAA4HACMMACQAJQEAF2phdmEvbGFuZy9TdHJpbmdCdWlsZGVyDAAmACcBAAEqDAAm
+ACgBAAE9DAApACoHACsMACwALQEACEZsb3dFeDIyAQAQamF2YS9sYW5nL09iamVjdAEAEGphdmEv
+bGFuZy9TeXN0ZW0BAANvdXQBABVMamF2YS9pby9QcmludFN0cmVhbTsBAAZhcHBlbmQBABwoSSlM
+amF2YS9sYW5nL1N0cmluZ0J1aWxkZXI7AQAtKExqYXZhL2xhbmcvU3RyaW5nOylMamF2YS9sYW5n
+L1N0cmluZ0J1aWxkZXI7AQAIdG9TdHJpbmcBABQoKUxqYXZhL2xhbmcvU3RyaW5nOwEAE2phdmEv
+aW8vUHJpbnRTdHJlYW0BAAdwcmludGxuAQAVKExqYXZhL2xhbmcvU3RyaW5nOylWACAACwAMAAAA
+AAACAAAADQAOAAEADwAAAB0AAQABAAAABSq3AAGxAAAAAQAQAAAABgABAAAAAQAJABEAEgABAA8A
+AACRAAQAAwAAAEUFPBsQCaMAPwQ9HBAJowAxsgACuwADWbcABBu2AAUSBrYABxy2AAUSCLYABxsc
+aLYABbYACbYACoQCAaf/z4QBAaf/wbEAAAACABAAAAAmAAkAAAAFAAIABgAIAAgACgAJABAACwA4
+AAwAPgAOAEEADwBEABAAEwAAAA4ABPwAAgH8AAcBM/oABQABABQAAAACABU=
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx22.java"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=FlowEx22.java
+
+class FlowEx22
+{
+ public static void main(String[] args)
+ {
+  int i=2;
+  while(i<=9)
+  {
+   int j=1;
+   while(j<=9)
+   {
+    System.out.println(i+"*"+j+"="+i*j);
+    j++;
+   }
+   i++;
+  }
+ }
+}
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx23.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx23.class
+
+yv66vgAAADMALAoACwAVCQAWABcHABgKAAMAFQoAAwAZCAAaCgADABsKAAMAHAoAHQAeBwAfBwAg
+AQAGPGluaXQ+AQADKClWAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEABG1haW4BABYoW0xqYXZh
+L2xhbmcvU3RyaW5nOylWAQANU3RhY2tNYXBUYWJsZQEAClNvdXJjZUZpbGUBAA1GbG93RXgyMy5q
+YXZhDAAMAA0HACEMACIAIwEAF2phdmEvbGFuZy9TdHJpbmdCdWlsZGVyDAAkACUBAAEtDAAkACYM
+ACcAKAcAKQwAKgArAQAIRmxvd0V4MjMBABBqYXZhL2xhbmcvT2JqZWN0AQAQamF2YS9sYW5nL1N5
+c3RlbQEAA291dAEAFUxqYXZhL2lvL1ByaW50U3RyZWFtOwEABmFwcGVuZAEAHChJKUxqYXZhL2xh
+bmcvU3RyaW5nQnVpbGRlcjsBAC0oTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xhbmcvU3RyaW5n
+QnVpbGRlcjsBAAh0b1N0cmluZwEAFCgpTGphdmEvbGFuZy9TdHJpbmc7AQATamF2YS9pby9Qcmlu
+dFN0cmVhbQEAB3ByaW50bG4BABUoTGphdmEvbGFuZy9TdHJpbmc7KVYAIAAKAAsAAAAAAAIAAAAM
+AA0AAQAOAAAAHQABAAEAAAAFKrcAAbEAAAABAA8AAAAGAAEAAAABAAkAEAARAAEADgAAAG4AAwAD
+AAAANAM8Az0bHGAQZKMAKhuEAgEcYDyyAAK7AANZtwAEHLYABRIGtgAHG7YABbYACLYACaf/1LEA
+AAACAA8AAAAaAAYAAAAFAAIABgAEAAcADAAJABMACgAzAAwAEgAAAAgAAv0ABAEBLgABABMAAAAC
+ABQ=
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx23.java"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=FlowEx23.java
+
+class FlowEx23
+{
+ public static void main(String[] args)
+ {
+  int E=0;
+  int i=0;
+  while(E+i<=100)
+  {
+   E+=++i;
+   System.out.println(i+"-"+E);
+  }
+ }
+}
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx24.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx24.class
+
+yv66vgAAADMAMQoACgAWCQAXABgIABkKABoAGwgAHAkAFwAdCgAeAB8KABoAIAcAIQcAIgEABjxp
+bml0PgEAAygpVgEABENvZGUBAA9MaW5lTnVtYmVyVGFibGUBAARtYWluAQAWKFtMamF2YS9sYW5n
+L1N0cmluZzspVgEADVN0YWNrTWFwVGFibGUBAApFeGNlcHRpb25zBwAjAQAKU291cmNlRmlsZQEA
+DUZsb3dFeDI0LmphdmEMAAsADAcAJAwAJQAmAQAZ66y47J6l7J2E7J6F66Cl7ZWY7Iuc7JqULgcA
+JwwAKAApAQAp7J6F66Cl7J2E66eI7LmY66Ck66m0IHgg66W8IOy5mOyLreyLnOyalC4MACoAKwcA
+LAwALQAuDAAvADABAAhGbG93RXgyNAEAEGphdmEvbGFuZy9PYmplY3QBABNqYXZhL2lvL0lPRXhj
+ZXB0aW9uAQAQamF2YS9sYW5nL1N5c3RlbQEAA291dAEAFUxqYXZhL2lvL1ByaW50U3RyZWFtOwEA
+E2phdmEvaW8vUHJpbnRTdHJlYW0BAAdwcmludGxuAQAVKExqYXZhL2xhbmcvU3RyaW5nOylWAQAC
+aW4BABVMamF2YS9pby9JbnB1dFN0cmVhbTsBABNqYXZhL2lvL0lucHV0U3RyZWFtAQAEcmVhZAEA
+AygpSQEABXByaW50AQAEKEMpVgAgAAkACgAAAAAAAgAAAAsADAABAA0AAAAdAAEAAQAAAAUqtwAB
+sQAAAAEADgAAAAYAAQAAAAEACQAPABAAAgANAAAAagACAAIAAAAtAzyyAAISA7YABLIAAhIFtgAE
+sgAGtgAHPLIAAhuStgAIGwKfAAkbEHig/+mxAAAAAgAOAAAAHgAHAAAABQACAAYACgAHABIACgAZ
+AAsAIQANACwADgARAAAABwAC/AASARkAEgAAAAQAAQATAAEAFAAAAAIAFQ==
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx24.java"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx24.java
+
+Y2xhc3MgRmxvd0V4MjQNCnsNCiBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz
+KSB0aHJvd3MgamF2YS5pby5JT0V4Y2VwdGlvbg0KIHsNCiAgaW50ILChPTA7DQogIFN5c3RlbS5v
+dXQucHJpbnRsbigiua7A5cC7wNS3wsfPvcO/5C4iKTsNCiAgU3lzdGVtLm91dC5wcmludGxuKCLA
+1LfCwLu4tsSht8G46SB4ILimIMShvcq9w7/kLiIpOw0KICBkbw0KICB7DQogICCwoT1TeXN0ZW0u
+aW4ucmVhZCgpOw0KICAgU3lzdGVtLm91dC5wcmludCgoY2hhcimwoSk7DQogIH0NCiAgd2hpbGUo
+sKEhPS0xJiawoSE9J3gnKTsNCiB9DQp9
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx25.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx25.class
+
+yv66vgAAADMALgoADAAWCQAXABgHABkKAAMAFggAGgoAAwAbCgADABwKAAMAHQoAHgAfCAAgBwAh
+BwAiAQAGPGluaXQ+AQADKClWAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEABG1haW4BABYoW0xq
+YXZhL2xhbmcvU3RyaW5nOylWAQANU3RhY2tNYXBUYWJsZQEAClNvdXJjZUZpbGUBAA1GbG93RXgy
+NS5qYXZhDAANAA4HACMMACQAJQEAF2phdmEvbGFuZy9TdHJpbmdCdWlsZGVyAQACYj0MACYAJwwA
+JgAoDAApACoHACsMACwALQEAAmE9AQAIRmxvd0V4MjUBABBqYXZhL2xhbmcvT2JqZWN0AQAQamF2
+YS9sYW5nL1N5c3RlbQEAA291dAEAFUxqYXZhL2lvL1ByaW50U3RyZWFtOwEABmFwcGVuZAEALShM
+amF2YS9sYW5nL1N0cmluZzspTGphdmEvbGFuZy9TdHJpbmdCdWlsZGVyOwEAHChJKUxqYXZhL2xh
+bmcvU3RyaW5nQnVpbGRlcjsBAAh0b1N0cmluZwEAFCgpTGphdmEvbGFuZy9TdHJpbmc7AQATamF2
+YS9pby9QcmludFN0cmVhbQEAB3ByaW50bG4BABUoTGphdmEvbGFuZy9TdHJpbmc7KVYAIAALAAwA
+AAAAAAIAAAANAA4AAQAPAAAAHQABAAEAAAAFKrcAAbEAAAABABAAAAAGAAEAAAABAAkAEQASAAEA
+DwAAAJEAAwADAAAASgM8BD0bEGSkAAanAA0bHGA8hAIBp//wsgACuwADWbcABBIFtgAGHLYAB7YA
+CLYACbIAArsAA1m3AAQSCrYABhu2AAe2AAi2AAmxAAAAAgAQAAAAJgAJAAAABQACAAYABAAJAAoA
+CgANAAsAEQAMABcADgAwAA8ASQAQABMAAAAJAAP9AAQBAQgJAAEAFAAAAAIAFQ==
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx25.java"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=FlowEx25.java
+
+class FlowEx25
+{
+ public static void main(String[] args)
+ {
+  int a=0;
+  int b=1;
+  while(true)
+  {
+   if(a>100)
+   break;
+   a+=b;
+   b++;
+  }
+  System.out.println("b="+b);
+  System.out.println("a="+a);
+ }
+}
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx26.class"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=FlowEx26.class
+
+yv66vgAAADMAHAoABQAPCQAQABEKABIAEwcAFAcAFQEABjxpbml0PgEAAygpVgEABENvZGUBAA9M
+aW5lTnVtYmVyVGFibGUBAARtYWluAQAWKFtMamF2YS9sYW5nL1N0cmluZzspVgEADVN0YWNrTWFw
+VGFibGUBAApTb3VyY2VGaWxlAQANRmxvd0V4MjYuamF2YQwABgAHBwAWDAAXABgHABkMABoAGwEA
+CEZsb3dFeDI2AQAQamF2YS9sYW5nL09iamVjdAEAEGphdmEvbGFuZy9TeXN0ZW0BAANvdXQBABVM
+amF2YS9pby9QcmludFN0cmVhbTsBABNqYXZhL2lvL1ByaW50U3RyZWFtAQAHcHJpbnRsbgEABChJ
+KVYAIAAEAAUAAAAAAAIAAAAGAAcAAQAIAAAAHQABAAEAAAAFKrcAAbEAAAABAAkAAAAGAAEAAAAB
+AAkACgALAAEACAAAAFwAAgACAAAAHwM8GxAKowAZGwZwmgAGpwAKsgACG7YAA4QBAaf/57EAAAAC
+AAkAAAAaAAYAAAAFAAgABwAOAAgAEQAJABgABQAeAAsADAAAAAsABPwAAgEOBvoABQABAA0AAAAC
+AA4=
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx26.java"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=FlowEx26.java
+
+class FlowEx26
+{
+ public static void main(String[] args)
+ {
+  for(int i=0;i<=10;i++)
+  {
+   if (i%3==0)
+   continue;
+   System.out.println(i);
+  }
+ }
+}
+------=_Part_10190_998386235.1337245236602
+Content-Type: application/octet-stream;
+	name="FlowEx27.java"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=FlowEx27.java
+
+
+------=_Part_10190_998386235.1337245236602
+Content-Type: text/plain;
+	name="=?UTF-8?B?7IOIIO2FjeyKpO2KuCDrrLjshJwudHh0?="
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; 
+	filename="=?UTF-8?B?7IOIIO2FjeyKpO2KuCDrrLjshJwudHh0?="
+
+class FlowEx
+{
+ public static void main(String[] args)
+ {
+  
+
+System.out.println
+------=_Part_10190_998386235.1337245236602--
